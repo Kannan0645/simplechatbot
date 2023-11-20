@@ -40,9 +40,11 @@ What is the purpose of the 'volatile' keyword in Java?
 2. To ensure that a thread sees the most up-to-date value of a variable.
 3. To prevent a class from being subclassed.
 4. To specify the initial value of a variable.
+   
 2
 correct!
 
 Thank you for interacting with me! have a wonderful day!
+
 current date and time: 2023-11-19 13:51:52
 
