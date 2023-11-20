@@ -1,5 +1,6 @@
 # SIMPLECHATBOT
 Welcome to Simple Chatbot, a Java-based chatbot with features such as country capital lookup, simple calculator, and a Java programming knowledge quiz.
+
 INTRODUCTION:
 This chatbot is designed to interact with users, providing information about country capitals, performing simple calculations, and testing Java programming knowledge.
 
