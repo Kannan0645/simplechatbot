@@ -6,7 +6,9 @@ This chatbot is designed to interact with users, providing information about cou
 
 FEATURES:
 1.Country Capital Lookup: Ask the chatbot for the capital of a specific country.
+
 2.Simple Calculator: Perform basic calculations with two numbers and various operators.
+
 3.Java Programming Quiz: Test your Java knowledge with a quiz that includes challenging question.
 
 SAMPLE OUTPUT:
